@@ -17,7 +17,12 @@ The results were the following:
 
 ## Election-Audit Summary: ##
 • Give text format to the obtained results the total votes cast in the Colorado country.
-• The percentage of vote by country (and the total)
-• The country with the highest percentage of vote participation
-• The percentage of votes obtained by each candidate
+
+
+• The percentage of vote by country (and the total).
+
+• The country with the highest percentage of vote participation.
+
+• The percentage of votes obtained by each candidate.
+
 • The winner is determined by the number of votes won and the percentage of their participation.
